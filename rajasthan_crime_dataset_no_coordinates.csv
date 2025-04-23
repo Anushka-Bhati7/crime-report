@@ -1,0 +1,11 @@
+Crime_ID,Date,Crime_Type,District,Place,Arrest_Made
+1,2024-01-01,Theft,Jaipur,MI Road,True
+2,2024-01-02,Assault,Jodhpur,Clock Tower,False
+3,2024-01-03,Burglary,Udaipur,Fateh Sagar,True
+4,2024-01-04,Kidnapping,Ajmer,Dargah Road,False
+5,2024-01-05,Robbery,Kota,Talwandi,True
+6,2024-01-06,Fraud,Bikaner,Junagarh Fort,False
+7,2024-01-07,Vandalism,Alwar,Bala Quila,True
+8,2024-01-08,Cyber Crime,Bharatpur,Lohagarh Fort,False
+9,2024-01-09,Murder,Sikar,Railway Station,True
+10,2024-01-10,Theft,Jaipur,C-Scheme,True
